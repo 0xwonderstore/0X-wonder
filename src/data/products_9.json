@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "title": "lunettes david beckham",
+      "url": "https://eleganceaccessoires.com/products/lunettes-david-beckham",
+      "avg_price": 2300,
+      "vendor": "eleganceaccessoires",
+      "created_at": "2024-04-30T01:23:11+01:00",
+      "images": [{"src": "https://cdn.shopify.com/s/files/1/0594/5078/5861/files/Copy_of_._3ba76eff-957d-4300-b472-455ac5c68090.png?v=1715090271", "width": 800, "height": 800}],
+      "variants": [{"price": "2300", "compare_at_price": null}]
+    },
+    {
+      "title": "lunettes bleu bloc",
+      "url": "https://eleganceaccessoires.com/products/lunettes-bleu-bloc",
+      "avg_price": 2200,
+      "vendor": "eleganceaccessoires",
+      "created_at": "2024-05-06T02:44:28+01:00",
+      "images": [{"src": "https://cdn.shopify.com/s/files/1/0594/5078/5861/files/Copy_of_._3ba76eff-957d-4300-b472-455ac5c68090.png?v=1715090271", "width": 800, "height": 800}],
+      "variants": [{"price": "2200", "compare_at_price": null}]
+    },
+    {
+      "title": "منظم صندوق السيارة الخلفي",
+      "url": "https://elenoradz.com/ar/products/cars",
+      "avg_price": 2600,
+      "vendor": "elenoradz",
+      "created_at": "2023-03-19T17:59:55+05:00",
+      "images": [{"src": "https://cdn.shopify.com/s/files/1/0734/0887/2759/files/1_c22adae5-a46e-41f8-a6a5-041b7ec81bae.png?v=1720774842", "width": 800, "height": 800}],
+      "variants": [{"price": "2600", "compare_at_price": null}]
+    }
+  ]
+}
